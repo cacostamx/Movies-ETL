@@ -5,7 +5,7 @@
 Amazing Prime elaborated an SQL database for a hackaton where teams of analysts will collaborate to work intensively on a project, using the data to solve a problem.  
 Data is provided from three different sources: Wikipedia scrape, movies metadata from Kaggle, and ratings data from MovieLens. We used an ETL process to extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them together, and load the cleaned dataset into a SQL database.
 
-Amazin Primenow wants to automate the process of ETL in order to keep the dataset updated on a daily basis.
+Amazing Prime now wants to automate the process of ETL in order to keep the dataset updated on a daily basis.
 
 ## Resources
 
